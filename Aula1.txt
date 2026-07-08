@@ -1,0 +1,7 @@
+Eu gostaria de um projeto de desenvolver itens basicos de um computador:
+1-Calculadora
+2-Um Software para Biblioteca
+3-Um Software para Pesquisa de Documentos do/no Computador
+4-Um Software para Gestão de Arquivos Trafegando a Rede
+5-Um Software para Customização(Videos,Imagens,Arquivos...)
+6-Criação de um Jogo Simples
